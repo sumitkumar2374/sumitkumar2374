@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Sumit%20Kumar&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=55&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sumit%20Kumar&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
  
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 
