@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Kumar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Web+Development+Learner;Learning+HTML+CSS+JavaScript+Python;Building+Web+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Sumit+Kumar;Aspiring+Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;Building+Web+Projects)](https://git.io/typing-svg)
 
 ---
 
