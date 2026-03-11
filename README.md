@@ -12,11 +12,9 @@
 ---
 
 ## 🛠 Skills
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- Git & GitHub  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,github,netlify,vscode" />
+</p>  
 
 ---
 
