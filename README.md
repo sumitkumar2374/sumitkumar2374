@@ -5,3 +5,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;Aspiring+Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;Building+Responsive+Web+Projects&center=true&width=500&height=45">
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Wave" />
+</div>
