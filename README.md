@@ -10,4 +10,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="Footer Wave" />
 </div>
 
-Hi, i am from dhanbad jharkhand, i have done my schooling from dhanbad jharkhand, now i am here to complete my graduation in computer science branch from sec sasaram engineering college, my goal & achievements is i will became a good software developer.
+Hi, i am from **dhanbad jharkhand**, i have done my **schooling** from **dhanbad jharkhand**, now i am here to complete my **graduation** in **computer science branch** from **sec sasaram engineering college**, my **goal & achievements** is i will became a good software developer in **future**.
