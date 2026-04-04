@@ -22,4 +22,6 @@
 
 git add .
 
-git commit
+git commit -m "msg"
+
+git remote add origin main
