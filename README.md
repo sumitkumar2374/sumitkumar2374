@@ -11,22 +11,3 @@
 </div>
 
 <!-- Hi, i am from **dhanbad jharkhand**, i have done my **schooling** from **dhanbad jharkhand**, now i am here to complete my **graduation** in **computer science branch** from **sec sasaram engineering college**, my **goal & achievements** is i will became a good software developer in **future**.-->
-
-## hy
-acheive batches
-- 2nd commit
-
----
-
-- 3rd commit
-- 4th commit
-- 5th commit
-- 6th commit
-- 7th commit
-- 8th commit
-- 9th commit
-- 10th commit
-- 11th commit
-- 12th commit
-- 13th commit
-- 14t commit
