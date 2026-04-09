@@ -20,4 +20,6 @@
 https://www.github.com/sumitkumar2374
 
 git add .
+
+git commit -m "msg"
 ```
