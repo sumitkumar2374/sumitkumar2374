@@ -31,3 +31,11 @@ git commit -m "msg"
 ```bash
 git clone <github repo>
 ```
+
+---
+
+- git condition
+
+```bash
+git status
+```
