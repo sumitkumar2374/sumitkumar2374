@@ -15,26 +15,3 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> -->
 
  
----
-
-- git condition
-
-```bash
-git status
-```
-
----
-
-- git remote
-
-```bash
-git remote
-
-git remote -v
-```
-
-- git push
-
-```bash
-git push origin main
-```
