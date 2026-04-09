@@ -49,3 +49,9 @@ git remote
 
 git remote -v
 ```
+
+- git push
+
+```bash
+git push origin main
+```
