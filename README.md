@@ -39,3 +39,13 @@ git clone <github repo>
 ```bash
 git status
 ```
+
+---
+
+- git remote
+
+```bash
+git remote
+
+git remote -v
+```
