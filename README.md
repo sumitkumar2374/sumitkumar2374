@@ -23,3 +23,11 @@ git add .
 
 git commit -m "msg"
 ```
+
+---
+
+- git clone
+
+```bash
+git clone <github repo>
+```
