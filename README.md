@@ -14,16 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
----
-
-## hi, here are the commit list .
-
-- 1st/2nd commit in .md
-- 3rd commits in .md
-- 4th commit now
-- 5th commit now working on
-- 6th commit continue
-- 7th commits in .md
-- 8th commits in main
-- 9th commits in .md
-- 10th commits changes
+ 
