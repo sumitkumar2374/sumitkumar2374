@@ -21,3 +21,5 @@
 - 4th commits are here
 - 5th commit in readme.md
 - 6th commits are in md
+- 7th are in commits
+- 8th are in commits
