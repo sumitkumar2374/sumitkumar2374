@@ -14,14 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
- ## here are the commits in .md 
-
-- 1st/2nd commits
-- 3rd commits in .md
-- 4th commits are here
-- 5th commit in readme.md
-- 6th commits are in md
-- 7th are in commits
-- 8th are in commits
-- 9th commits in .md
-- 10th commits in readme.md
+ 
