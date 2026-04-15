@@ -13,24 +13,3 @@
 <!-- Hi, i am from **dhanbad jharkhand**, i have done my **schooling** from **dhanbad jharkhand**, now i am here to complete my **graduation** in **computer science branch** from **sec sasaram engineering college**, my **goal & achievements** is i will became a good software developer in **future**.-->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
-
-## here are the commits list !
-
-var cancellable = function(fn, args, t) {
-    fn(...args);
-    let timer = setInterval(() => fn(...args), t);
-
-    let cancelFn = () => clearInterval(timer);
-    return cancelFn;
-};
-
-- 1st commit
-- 2nd commits in .md
-- 3rd commits are in readme.md
-- 4th commits is going
-- 5th commits in changes
-- 6th commits are coll
-- 7th commis on .md
-- 8th commits
-- 9th commit
-- 10th commit changes
