@@ -29,3 +29,4 @@ var cancellable = function(fn, args, t) {
 - 3rd commits are in readme.md
 - 4th commits is going
 - 5th commits in changes
+- 6th commits are coll
