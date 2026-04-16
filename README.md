@@ -24,3 +24,4 @@
 - 7th commits are in readme.md
 - 8th are in direct change
 - 9th commmits in .md
+- 10th commits are in direct commit change
