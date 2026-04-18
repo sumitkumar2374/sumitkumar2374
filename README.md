@@ -20,3 +20,4 @@
 - 5th commits are in .md
 - 6th commits are continue
 - 7th commits are on the way
+- 8th commits are best ways
