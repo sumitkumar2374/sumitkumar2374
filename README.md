@@ -14,11 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-## hi. here are the commiytd list
-
-- 1st/2nd commiy=s
-- 3rd cpmmits
-- 4th commits are here
-- 5th commits aew thr bdfz
-- 6th commits is the second last commits
-- 7th commits is the may be last commits in .md
+ 
