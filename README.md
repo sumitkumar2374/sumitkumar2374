@@ -25,3 +25,4 @@
 - 7th commit is also a commit change
 - 8th commits are in the readme
 - 9th commits in main .md
+- 10th commits are critical
