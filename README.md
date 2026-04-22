@@ -21,3 +21,4 @@
 - 4th commits are commit change
 - 5th commit are the main commits change
 - 6th commis are on the ways
+- 7th commmits is the direct commit change on readme.md
