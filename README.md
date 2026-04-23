@@ -14,11 +14,3 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-## here are the commits list for contribution graph!
-
-- 1st/2nd commits
-- 3rd commit in main
-- 4th commit in readme
-- 5th commit in main .md
-- 6th commits in readme .md
-- 7th commits is may be last commit fo today.
