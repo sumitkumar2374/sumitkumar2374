@@ -17,4 +17,5 @@
 ## here are the commit list for contribution!
 
 - 5th commit
-- 6th commit is on the way 
+- 6th commit is on the way
+- 7th commit is on main readme
