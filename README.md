@@ -14,11 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-## hi, this is the commit list for contribution graph!
-
-- 1st/2nd commit
-- 3rd commmit list
-- 4th commit list is the change
-- 5th change may have change something
-- 6th commit list is the fastest commit in main
-- 7th commit is the last commit may be
+ 
