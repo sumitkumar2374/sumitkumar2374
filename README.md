@@ -21,3 +21,4 @@
  - 4th commit is also reame memeber
  - 5th commit is the directly in main
  - 6th commit is the commit changes
+ - 7th commit is the directly commited in the main branch
