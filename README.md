@@ -20,3 +20,4 @@
 - 3rd commit in main changes commit
 - 4th commit is the commit for contribution graph
 - 5th commit is the latest commit for graph
+- 6th commit is the direct change in main folder
