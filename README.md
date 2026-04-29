@@ -14,12 +14,3 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-## hi, this is the commit list !
-
-- 1st/2nd commit
-- 3rd commit in main changes commit
-- 4th commit is the commit for contribution graph
-- 5th commit is the latest commit for graph
-- 6th commit is the direct change in main folder
-- 7th commit list is the last commit changes may be
-- 8th commits
