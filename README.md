@@ -17,4 +17,5 @@
 ## Hi, this is the commit list for contribution graph!
 
 - 1st/2nd commit
-- 3rd commit is here 
+- 3rd commit is here
+- 4th commit is the graph 
