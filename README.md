@@ -21,3 +21,4 @@
 - 4th commit
 - 5th commits is the direct change main
 - 6th commit is the change in .md
+- 7th commit is the list of commmit graph for today
