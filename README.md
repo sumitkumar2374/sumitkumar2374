@@ -20,4 +20,5 @@
 - 3rd commit is here
 - 4th commit is the graph
 - 5th commit is the readme change
-- 6th commit is the second last commit okay 
+- 6th commit is the second last commit okay
+- 7th commit is the contribution graph 
