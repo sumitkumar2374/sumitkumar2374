@@ -16,4 +16,5 @@
 
 ## Hi, this is the commit list for today contribution graph!
 
-- 1st/2nd commit 
+- 1st/2nd commit
+- 3rd commit is the important graph contri
