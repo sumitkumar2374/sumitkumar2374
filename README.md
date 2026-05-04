@@ -14,10 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-## Here are the commit list for today okay! 
 
-- 2nd/3rd commit is start
-- 4th commit is now in readme
-- 5th commit is the direct change in main
-- 6th commit is the second last commit for today
-- 7th commit is the last commit okay
