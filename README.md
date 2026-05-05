@@ -20,3 +20,4 @@
 - 3rd commit is direct on the main
 - 4th commit is the list on readme
 - 5th commit is on username
+- 6th commit attach files by dragging & dropping, selecting or pasting them
