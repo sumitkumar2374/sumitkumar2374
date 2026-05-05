@@ -21,3 +21,4 @@
 - 4th commit is the list on readme
 - 5th commit is on username
 - 6th commit attach files by dragging & dropping, selecting or pasting them
+- 7th commit is to toggle the tab key moving focus. Alternatively use esc then tab to move to the next interative element on the page.
