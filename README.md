@@ -20,4 +20,5 @@
 - 3rd commit is the list of main
 - 4th commit is the attch files by dragging & dropping, selection or pasting them.
 - 5th commit is directly commited into main
-- 6th commit is the second last commit 
+- 6th commit is the second last commit
+- 7th commit is the fix typo in readme.md
