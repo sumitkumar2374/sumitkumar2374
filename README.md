@@ -14,11 +14,3 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-## Here are the commit list for contribution graph!
-
-- 1st/2nd commit
-- 3rd commit is the intruction for git
-- 4th commit is the bsah command
-- 5th commit is the attaching files by draging &dropping, selecting or pasting them.
-- 6th commit is the list of the correction
-- 7th commit is the last correction
