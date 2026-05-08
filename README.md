@@ -18,3 +18,4 @@
 
 - 1st/2nd commit
 - 3rd commit is the intruction for git
+- 4th commit is the bsah command
