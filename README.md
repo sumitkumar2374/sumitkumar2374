@@ -17,3 +17,4 @@
 # Here are the commit lists !
 
 - 1st/2nd commit
+- 3rd commit is the readme
