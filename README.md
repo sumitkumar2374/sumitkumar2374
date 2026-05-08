@@ -21,3 +21,4 @@
 - 4th commit is the bsah command
 - 5th commit is the attaching files by draging &dropping, selecting or pasting them.
 - 6th commit is the list of the correction
+- 7th commit is the last correction
