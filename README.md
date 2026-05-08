@@ -19,3 +19,4 @@
 - 1st/2nd commit
 - 3rd commit is the intruction for git
 - 4th commit is the bsah command
+- 5th commit is the attaching files by draging &dropping, selecting or pasting them.
