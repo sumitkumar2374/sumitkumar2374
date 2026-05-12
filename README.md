@@ -18,3 +18,6 @@
 
 - 1st/2nd commit
 - 3rd commit is the list of contribution
+- 4th commit
+- 5th commit
+- 6th commit is the readme 
