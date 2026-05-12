@@ -20,4 +20,5 @@
 - 3rd commit is the list of contribution
 - 4th commit
 - 5th commit
-- 6th commit is the readme 
+- 6th commit is the readme
+- 7th commit is the last commit for today 
