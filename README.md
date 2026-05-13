@@ -17,6 +17,7 @@
 # Here are the commit list 
 
 - 4th commit list
+- 5th commit is the class solution
 
 ---
 
