@@ -18,7 +18,8 @@
 
 - 4th commit list
 - 5th commit is the class solution
-- 6th commit is the preview list 
+- 6th commit is the preview list
+- 7th commit is the last commit for today
 
 ---
 
