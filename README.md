@@ -18,6 +18,7 @@
 
 - 4th commit list
 - 5th commit is the class solution
+- 6th commit is the preview list 
 
 ---
 
