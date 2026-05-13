@@ -18,4 +18,5 @@
 
 - 1st/2nd commit
 - 3rd commit list in readme
-- 4th commit is the current changes 
+- 4th commit is the current changes
+- 5th commit is the attach files by dragging 
