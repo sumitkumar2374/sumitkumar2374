@@ -17,4 +17,5 @@
 ## Here are the commit list for contribution graph
 
 - 1st/2nd commit
-- 3rd commit list in readme 
+- 3rd commit list in readme
+- 4th commit is the current changes 
