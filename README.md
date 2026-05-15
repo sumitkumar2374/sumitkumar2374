@@ -14,11 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-# Here are the commit list for contribution graph
-
-- 1st/2nd commit
-- 3rd commit list is the changes in main
-- 4th commit list is readme
-- 5th commit list is the is a special repo
-- 6th commit list is the aattach files
-- 7th commit list is the go files 
+ 
