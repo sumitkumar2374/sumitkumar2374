@@ -19,5 +19,6 @@
 - 1st/2nd commit
 - 3rd commit list in readme
 - 4th commit is the changes in list
-- 5th commit list is the go to file 
+- 5th commit list is the go to file
+- 6th commit is the preview list 
 
