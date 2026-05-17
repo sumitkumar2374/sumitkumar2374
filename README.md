@@ -14,11 +14,3 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
- # Here are the commit list for contribution in graph !
-
- - 1st/2nd commit
- - 3rd commit list is the attach files in readme
- - 4th commit list is the preview in edit
- - 5th commit is the URL of this readme ```https://github.com/sumitkumar2374/sumitkumar2374.git ```
- - 6th commit list is the second last fix
- - 7th commit list is the fixed
