@@ -21,3 +21,4 @@
 - 4th commit list is for confihuration
 - 5th commit list is the attach files
 - 6th commit list is in main readme
+- 7th commit list is changes 
