@@ -14,11 +14,5 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
  
-# Here are the commit list for contribution graph
+ 
 
-- 1st/2nd commit
-- 3rd commit is in readme link : ```https://github.com/sumitkumar2374/sumitkumar2374/blob/main/README.md ```
-- 4th commit is the preview list in readme
-- 5th commit list for attach files in main
-- 6th commit list go to file in readme change
-- 7th commit list is here final change for today okay
