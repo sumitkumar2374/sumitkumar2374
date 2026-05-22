@@ -18,3 +18,4 @@
 
 - 1st/2nd commit
 - 3rd commit list is readme link ```https://github.com/sumitkumar2374/sumitkumar2374/blob/main/README.md ```
+- 4th commit list is fix some problem of some bug 
