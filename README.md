@@ -20,4 +20,5 @@
 - 3rd commit list is readme link ```https://github.com/sumitkumar2374/sumitkumar2374/blob/main/README.md ```
 - 4th commit list is fix some problem of some bug
 - 5th commit list go to file
-- 6th commit list is the preview 
+- 6th commit list is the preview
+- 7th commit list is the fix & complete 
