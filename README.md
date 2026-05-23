@@ -14,11 +14,3 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
  
-# here sre yhr commit lidt for contribution graph and some link 
-
-- 1st/2nd commit list is the readme
-- 3rd commit list is preview
-- 4th commit list is the attach files
-- 5th commit list is the go to file
-- 6th commit list is the alternative list
-- 7th commit list is the fix readme 
