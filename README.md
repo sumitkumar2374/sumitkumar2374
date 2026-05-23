@@ -20,4 +20,5 @@
  - 3rd commit list is for go to files
  - 4th commit list is the attach files
  - 5th commit list is the preview
- - 6th commit list is the toggle 
+ - 6th commit list is the toggle
+ - 7th commit list is the fix files 
