@@ -17,3 +17,4 @@
 # here sre yhr commit lidt for contribution graph and some link 
 
 - 1st/2nd commit list is the readme
+- 3rd commit list is preview
