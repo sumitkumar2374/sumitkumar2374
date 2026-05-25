@@ -19,4 +19,5 @@
 - 1st/2nd commit list
 - 3rd commit list is the  preview
 - 4th commit list is the go to file
-- 5th commit list is the check 
+- 5th commit list is the check
+- 6th commit list is the readme 
