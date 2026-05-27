@@ -21,3 +21,4 @@
 - 4th commit list is the preview
 - 5th commit list for go to file in readme
 - 6th commit list is the attach
+- 7th commit list files check
