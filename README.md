@@ -21,4 +21,5 @@
 - 4th commit list is the preview
 - 5th commit list is the go to file
 - 6th commit list is update changes
+- 7th commit list is the fix changes
  
