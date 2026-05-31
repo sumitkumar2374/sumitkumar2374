@@ -20,5 +20,6 @@
 - 3rd commit list starting
 - 4th commit list is the preview
 - 5th commit list is the attach file
-- 7th commit list is the go to files
+- 6th commit list is the go to files
+- 7th commit list is the fix changes 
  
