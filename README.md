@@ -14,10 +14,4 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-# Here are the commilt list for contribution graph in github okay
 
-- 1st/2nd commit
-- 3rd commit list is the starting list
-- 4th commit list is the store link ```https://github.com/sumitkumar2374/sumitkumar2374/edit/main/README.md ```
-- 5th commit list is the preview
-- 6th commit list is the fix changes 
