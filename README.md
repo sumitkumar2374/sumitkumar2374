@@ -16,4 +16,5 @@
 
 # Here are the commilt list for contribution graph in github okay
 
-- 1st/2nd commit 
+- 1st/2nd commit
+- 3rd commit list is the starting list 
