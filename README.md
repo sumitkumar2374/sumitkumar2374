@@ -20,4 +20,5 @@
 - 3rd commit list is checking list
 - 4th commit list is the preview
 - 5th commit list is the attaching files
-- 5th commit list is the go to file 
+- 5th commit list is the go to file
+- 6th commit list is the readme files
