@@ -16,4 +16,5 @@
 
 # here are the commit list for contribution graph
 
-- 1st/2nd commit is starting 
+- 1st/2nd commit is starting
+- 3rd commit is the check files for graph
