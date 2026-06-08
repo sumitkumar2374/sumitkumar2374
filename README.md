@@ -20,4 +20,5 @@
 - 3rd commit is the check files for graph
 - 4th commit list is the preview list
 - 5th commir list is the attach files in main
-- 6th commit list is the readme file in main branch 
+- 6th commit list is the readme file in main branch
+- 7th commit list is added to main branch 
