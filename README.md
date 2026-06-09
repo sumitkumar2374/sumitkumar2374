@@ -19,4 +19,5 @@
 - 1st/2nd commit list
 - 3rd commit list is the starting
 - 4th commit list is the preview list
-- 5th commit list is the attaching files 
+- 5th commit list is the attaching files
+- 6th commit list is the readme files 
