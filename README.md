@@ -20,4 +20,5 @@
 - 3rd commit list is the starting
 - 4th commit list is the preview list
 - 5th commit list is the attaching files
-- 6th commit list is the readme files 
+- 6th commit list is the readme files
+- 7th commit list is the fix typo
