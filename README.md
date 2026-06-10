@@ -19,5 +19,6 @@
 - 1st/2nd commit list
 - 3rd commit list is starting
 - 4th commit list is the preview
-- 5th commit list is the attach files in main 
+- 5th commit list is the attach files in main
+- 6th commit list is the go to files in the main
 
