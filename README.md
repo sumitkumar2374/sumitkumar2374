@@ -21,3 +21,4 @@
 - 4th commit list is preview
 - 5th commit lis tis the fixex readme
 - 6th commit list is th attach file7th commit lis tis the continue list is bcz total commit is 12 now okay
+- 7th commit list is the attach files by dragging & dropping , selecting or pasting theme .
