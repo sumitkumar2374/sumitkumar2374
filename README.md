@@ -14,15 +14,5 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-# Here are the commit list for contribution graph
 
-- 1st/2nd commit list
-- 3rd commit list is starting
-- 4th commit list is preview
-- 5th commit lis tis the fixex readme
-- 6th commit list is th attach file7th commit lis tis the continue list is bcz total commit is 12 now okay
-- 7th commit list is the attach files by dragging & dropping , selecting or pasting theme .
-- 8th commit list is the readme fixes now
-- 9th commit list is the commit directly into the main branch
-- 10th commit list is the use ```control + shift + m ``` to toggle the tab key moving focus .Alternatively, use ```esc ``` then ```tab ``` to move the next interactive element on the page.
-- 11th commit list is the fix typo 
+ 
