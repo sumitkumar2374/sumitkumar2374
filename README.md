@@ -25,3 +25,4 @@
 - 8th commit list is the readme fixes now
 - 9th commit list is the commit directly into the main branch
 - 10th commit list is the use ```control + shift + m ``` to toggle the tab key moving focus .Alternatively, use ```esc ``` then ```tab ``` to move the next interactive element on the page.
+- 11th commit list is the fix typo 
