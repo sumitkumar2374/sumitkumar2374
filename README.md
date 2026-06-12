@@ -18,4 +18,5 @@
 
 - 1st/2nd commit
 - 3rd commit list is the contig
+- 4th commit list is the preview
  
