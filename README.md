@@ -18,4 +18,5 @@
 
 - 1st/2nd commit list is starting at that point
 - 3rd commit list is the attaching some files
-- 4th commit list is the preview list 
+- 4th commit list is the preview list
+- 5th commit list is the recheck readme 
