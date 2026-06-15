@@ -20,6 +20,7 @@
 - 3rd commit list create content now going
 - 4th commit list is attach some file in readme
 - 5th commit list is the preview list in main
-- 6th commit list is the fix some 
+- 6th commit list is the fix some
+- 7th commit list is the fix typo in directory
 
  
