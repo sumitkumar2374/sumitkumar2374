@@ -21,4 +21,5 @@
 - 4th commit list is the preview
 - 5th commit list is the attach imp files
 - 6th commit list is the use ```control + shift +m ``` to togglr the ```tab ```
+- 7th commit list is the fix typo
  
