@@ -18,4 +18,5 @@
 
 - 1st/2nd commit list is starting
 - 3rd commit list is the attach some files
-- 4th commit list is the selecting text and images 
+- 4th commit list is the selecting text and images
+- 5th commit lis tis the go to file s
