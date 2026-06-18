@@ -17,4 +17,5 @@
 # Here are the commit list for contribution graph
 
 - 1st/2nd commit list is starting
-- 3rd commit list is the attach some files in readme 
+- 3rd commit list is the attach some files
+- 4th commit list is the selecting text and images 
