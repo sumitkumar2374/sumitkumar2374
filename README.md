@@ -20,4 +20,5 @@
 - 3rd commit list is the attach some files
 - 4th commit list is the selecting text and images
 - 5th commit lis tis the go to file s
-- 6th commit list is the preview 
+- 6th commit list is the preview
+- 7th commit list is the fix typo
