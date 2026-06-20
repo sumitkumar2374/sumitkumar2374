@@ -20,5 +20,6 @@
 - 3rd commit is attach some file
 - 4th commit list is the go to the file
 - 5th commit list is the add some content in main
-- 6th commit list is the preview 
+- 6th commit list is the preview
+- 7th commit list is the fix typo
  
