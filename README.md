@@ -14,12 +14,5 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sumit%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling" /> --> 
 
-# Here are the commit list for contribution graph 
-
-- 1st/2nd commit
-- 3rd commit is attach some file
-- 4th commit list is the go to the file
-- 5th commit list is the add some content in main
-- 6th commit list is the preview
-- 7th commit list is the fix typo
+ 
  
