@@ -19,4 +19,5 @@
  - 1st/2nd commit
  - 3rd commit is the start
  - 4th commit list is the attch some file
- - 5th commit list is the go to file 
+ - 5th commit list is the go to file
+ - 6th commit list is the preview 
