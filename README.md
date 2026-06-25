@@ -22,3 +22,4 @@
  - 5th commit list is the go to file
  - 6th commit list is the preview
  - 7th commit list is the fix typo
+ - 8th commit list is the alternative add files 
