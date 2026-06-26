@@ -20,4 +20,5 @@
  - 3rd commit list is starting
  - 4th commit list is the attch files
  - 5th commit list is the check
- - 6th commit list is the preview 
+ - 6th commit list is the preview
+ - 7th commit list is the fix changes 
