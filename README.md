@@ -16,4 +16,5 @@
 
 # Here are the commit list for contribution graph
 
-- 1st/2nd commi 
+- 1st/2nd commi
+- 3rd commit list is preview 
